@@ -9,7 +9,7 @@ The mobile codebase has no current development as of May 24 but will begin short
 
 #### Run the following commands to install:
 
-- `git clone https://github.com/NickLewanowicz/kickit-landing`
+- `git clone https://github.com/kickit/kickit-landing`
 - `cd kickit-mobile`
 - `yarn`
 - `npm run` either `ios` or `android`
